@@ -148,7 +148,6 @@ dependencies:
     - stack-data==0.5.1
     - statsmodels==0.13.2
     - tangled-up-in-unicode==0.2.0
-    - tensorboard==2.10.1
     - tensorboard-data-server==0.6.1
     - tensorboard-plugin-wit==1.8.1
     - terminado==0.16.0
